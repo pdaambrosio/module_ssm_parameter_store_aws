@@ -36,5 +36,5 @@ module "example" {
 
 | Name | Description |
 |------|-------------|
-| <a name="output_parameter"></a> [parameter](#output\_parameter) | n/a |
+| <a name="output_parameter"></a> [parameter](#output\_parameter) | The parameter value |
 <!-- END_AUTOMATED_TF_DOCS_BLOCK -->
