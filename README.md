@@ -23,7 +23,7 @@ module "example" {
 
 | Name | Type |
 |------|------|
-| [aws_ssm_parameter.ssm-parameter-store](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/ssm_parameter) | resource |
+| [aws_ssm_parameter.parameter](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/ssm_parameter) | resource |
 ## Inputs
 
 | Name | Description | Type | Default | Required |
